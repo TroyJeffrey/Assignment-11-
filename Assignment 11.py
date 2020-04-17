@@ -1,6 +1,7 @@
-# Howard Lichtman
-# April 10, 2020
-# Main program to test sort algorithms
+# Troy Amegashie
+# Assignment 11
+# April 14, 2020
+
 
 import random
 import Search_Methods
